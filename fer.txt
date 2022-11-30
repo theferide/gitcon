@@ -1,3 +1,1 @@
 pot
-tor
-tir
